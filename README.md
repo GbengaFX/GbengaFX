@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @GbengaFX
-- 👀 I’m interested in Software Development and DevOps
-- 🌱 I’m currently learning C# Programming Language and Javascript
-- 💞️ I’m looking to collaborate on Software Development and Mobile App Development
-- 📫 How to reach me, add me up on Twitter @Dtctiv
+- 👋 Hi, I’m @Gbenga Koleoso
+- 👀 I’m interested in Web Development and DevOps
+- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 💞️ I’m looking to collaborate on Web Development and Mobile App Development
 
 <!---
 GbengaFX/GbengaFX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
